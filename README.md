@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Land first Web Developer job
+- 🥅 2021 Goals: Land first Developer job
 - ⚡ Fun fact: I love to read and surf
 
 ### Connect with me:
