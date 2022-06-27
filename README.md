@@ -33,3 +33,5 @@
 
 [twitter]: https://twitter.com/calebjsmithio
 [linkedin]: https://www.linkedin.com/in/calebjsmith2101/
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calebjsmith2101)](https://github.com/anuraghazra/github-readme-stats)
