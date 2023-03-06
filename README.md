@@ -1,10 +1,9 @@
 ### Hi there, I'm Caleb 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Husband, Father, Tester, and Teacher!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Land first Developer job
 - ⚡ Fun fact: I love to read and surf
 
 ### Connect with me:
